@@ -40,7 +40,7 @@ $( document ).ready(function() {
     }
     
     function resetData(){
-    	$("#id2").val("");
+    	$("#id").val("");
     	$("#firstname2").val("");
         $("#surname2").val("");
         $('#gender2').val("");
