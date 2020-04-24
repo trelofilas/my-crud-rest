@@ -7,7 +7,7 @@ $( document ).ready(function() {
   
   function ajaxGetId(){
 		  
-		  var id = ("#id4").val();
+		  var id = ("#id3").val();
 		  
 		  $.ajax({
 			  type: "GET",
